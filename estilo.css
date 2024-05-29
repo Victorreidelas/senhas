@@ -4,3 +4,13 @@ body{
     background: rgb(0,29,36); 
     background: linear-gradient(43deg, rgba(0,29,36,1) 0%, rgba(0,212,255,1) 100%);
 }
+
+
+.titulo-principal{
+    font-family: var(--roboto-mono);
+    font-size: 32px;
+}
+
+.titulo-secundario{
+    font-size: 24px;
+}
