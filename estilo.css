@@ -52,3 +52,7 @@ body{
 #campo-senha:focus{
     outline: none;
 }
+
+.parametro{
+    font-size: 28px;
+}
