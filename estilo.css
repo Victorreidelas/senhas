@@ -1,8 +1,8 @@
 :root{
- --cor-de-fundo: #ff008a;
+ --cor-de-fundo: #00244D;
  --cor-de-texto: #fff;
- --fundo-senha: #1e1bdb;
- --borda: #649856;
+ --fundo-senha: #001E40;
+ --borda: #0075FF;
 }
 body{
     height: 100vh;
