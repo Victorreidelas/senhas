@@ -24,7 +24,7 @@ body{
 .conteudo-senha{
     text-align: center;
     margin-top: 80px;
-    background-color: var(--fundo-senha);
+    background-color: var(--cor-de-texto);
     padding: 24px;
     border-bottom: 6px solid var(--borda);
     color: var(--cor-de-texto);
