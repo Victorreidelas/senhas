@@ -91,7 +91,10 @@ justify-content: center;
 color: var(--cor-de-texto);
 
 }
+.parametro-senha{
+    width: 0 auto;
 
+}
 
 @media screen and (min-width:768px) {
     .parametro--coluna-senha{
