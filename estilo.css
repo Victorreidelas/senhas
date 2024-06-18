@@ -92,7 +92,8 @@ color: var(--cor-de-texto);
 
 }
 .parametro-senha{
-    width: 0 auto;
+    width: 50%;
+    margin: 0%; auto
 
 }
 
