@@ -84,7 +84,7 @@ margin-top: 32px;
     cursor: pointer;
     color: var(--cor-de-texto);
 }
-.parametro--coluna-senha{
+.parametro-coluna-senha{
 display: flex;
 flex-direction: column;
 justify-content: center;
