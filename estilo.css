@@ -103,6 +103,11 @@ color: var(--cor-de-texto);
     width: 100%;
 }
 
+.fraca{
+    width: 25%;
+    background-color: #e71b32;
+}
+
 @media screen and (min-width:768px){
     .parametro-coluna-senha{
         flex-direction: row;
