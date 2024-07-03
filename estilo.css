@@ -103,6 +103,12 @@ color: var(--cor-de-texto);
     width: 100%;
 }
 
+.forca{
+    height: 30px;
+    position: relative;
+
+}
+
 .fraca{
     width: 25%;
     background-color: #e71b32;
