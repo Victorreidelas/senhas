@@ -60,7 +60,7 @@ color: var(--cor-de-texto);
     color: var(--cor-de-texto);
 }
 
-    .parametro{
+.parametro{
 background-color: var(--fundo-texto);
 border: 2px solid var(--borda);
 margin-top: 32px;
