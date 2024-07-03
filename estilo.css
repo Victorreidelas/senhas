@@ -106,6 +106,7 @@ color: var(--cor-de-texto);
 .forca{
     height: 30px;
     position: relative;
+    bottom: 30px;
 
 }
 
