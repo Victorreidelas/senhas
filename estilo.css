@@ -3,6 +3,7 @@
  --cor-de-texto: #fff;
  --fundo-senha: #2EA4E7;
  --borda: #0075FF;
+ --roboto-mono: 'Roboto Mono', monospace;
 }
 body{
     height: 100vh;
