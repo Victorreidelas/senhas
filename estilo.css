@@ -115,6 +115,11 @@ color: var(--cor-de-texto);
     background-color: #e71b32;
 }
 
+.parametro-senha-textos{
+    display: flex;
+    justify-content: space-between;
+}
+
 @media screen and (min-width:768px){
     .parametro-coluna-senha{
         flex-direction: row;
