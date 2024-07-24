@@ -6,10 +6,6 @@
  --roboto: 'Roboto Mono', sans-serif;
  --roboto-mono: 'Roboto Mono', monospace;
  --branco: white;
-
-    --fundo-texto: #2C334D;
-    --roboto: 'Roboto Mono', sans-serif;
-    --roboto-mono: 'Roboto Mono', monospace;
 }
 body{
     height: 100vh;
@@ -41,6 +37,7 @@ body{
 #campo-senha{
     background-color: var(--cor-de-fundo);
     border: none;
+    color: var(--cor-de-texto);
     font-family: var(--roboto-mono);
     font-size: 40px;
     width: 70%;
