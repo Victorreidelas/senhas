@@ -1,4 +1,4 @@
-const numeroSenha = document.querySelector('.parametro-senha-texto')
+const numeroSenha = document.querySelector('.parametro-senha__texto')
 const botoes = document.querySelectorAll('parametro-senha-botao')
 
 botoes[0].onclick = diminuirTamanho
