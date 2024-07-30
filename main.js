@@ -6,6 +6,6 @@ botoes[0].onclick = diminuirTamanho
 let tamanhoSenha = 5
 
 function diminuirTamanho() {
-    console.log('teste');
+    tamanhoSenha = tamanhoSenha - 1
 }
 numeroSenha.textContent = tamanhoSenha
