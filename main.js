@@ -11,9 +11,7 @@ let maiuscula = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 let minuscula = "abcdefghijklmnopqrstuvwxyz"
 let numero = "123456789"
 let simbolos ="!?@%&*#-_"
-console.log(maiuscula);
 
-let minuscula = []
 
 function diminuirTamanho() {
     if (tamanhoSenha > 1) 
@@ -26,5 +24,11 @@ function almentarTamanho() {
     if (tamanhoSenha < 20) 
     tamanhoSenha = tamanhoSenha + 1
     numeroSenha.textContent = tamanhoSenha
+}
+
+function geraSenha(){
+    let senha = ""
+    for(let i = 0; i<tamanhoSenha; i++)
+        console.log(i)
 }
 
