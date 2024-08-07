@@ -29,7 +29,11 @@ function almentarTamanho() {
 
 function geraSenha(){
     let senha = ""
-    for(let i = 0; i < tamanhoSenha; i++ )
-        console.log(i)
+    for(let i = 0; i < tamanhoSenha; i++ ){
+        let numeroAleatorio = Math.floor(numeroAleatorio)
+        senha = senha + maiuscula[numeroAleatorio];
+        consolelog(senha)
+    }
+        
 }
 
