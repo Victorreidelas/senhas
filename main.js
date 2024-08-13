@@ -56,7 +56,7 @@ function geraSenha(){
     if(checkbox[3].Checked){
         alfabeto = alfabeto + simbolos
     }
-
+    console.log(alfabeto)
 
     for(let i = 0; i < tamanhoSenha; i++ ){
         let numeroAleatorio = Math.random() * alfabeto.length
