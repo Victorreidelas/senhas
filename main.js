@@ -20,12 +20,14 @@ function diminuirTamanho() {
         
     tamanhoSenha = tamanhoSenha - 1
     numeroSenha.textContent = tamanhoSenha
+    geraSenha()
 }
 
 function almentarTamanho() {
     if (tamanhoSenha < 20) 
     tamanhoSenha = tamanhoSenha + 1
     numeroSenha.textContent = tamanhoSenha
+    geraSenha()
 }
 
 
