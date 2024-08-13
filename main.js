@@ -18,6 +18,10 @@ let simbolos ="!?@%&*#-_"
 
 geraSenha()
 
+for (i=0; i < checkbox.length;i++){
+    checkbox[i].onclick = geraSenha;
+}
+
 function diminuirTamanho() {
     if (tamanhoSenha > 1) 
         
