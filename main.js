@@ -1,7 +1,7 @@
 const numeroSenha = document.querySelector('.parametro-senha__texto')
 const botoes = document.querySelectorAll('.parametro-senha__botao')
 const campoSenha = document.querySelector('#campo-senha');
-const checkbox = document.querySelectorAll('checkbox')
+const checkbox = document.querySelectorAll('.checkbox')
 
 console.log(checkbox)
 
