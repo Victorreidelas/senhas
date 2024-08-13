@@ -35,7 +35,8 @@ function almentarTamanho() {
 
 
 function geraSenha(){
-    let senha = ""
+    let alfabeto = ""
+    if(checkbox[0].Checked)
     for(let i = 0; i < tamanhoSenha; i++ ){
         let numeroAleatorio = Math.random() * maiuscula.length
         numeroAleatorio = Math.floor(numeroAleatorio)
